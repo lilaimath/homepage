@@ -451,7 +451,7 @@ td {
 	padding-left: 0.5em;
 	padding-right: 0.5em;
 	text-align: center;
-	border: 1px solid #d1d5da;
+	/* border: 1px solid #d1d5da; */
 	line-height: 2;
 	max-width: 50%;
 }
